@@ -1,0 +1,5610 @@
+Daniel Darcy
+CS 4430
+a3Output
+Gupta
+
+
+Enter the amount of random numbers to generate below:
+1
+
+n = 1
+
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 1697657458
+Binary: 1100101001100000011001001110010
+Time taken: 126411 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1697657458
+Binary: 1100101001100000011001001110010
+Time taken: 40176 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1697657458
+Binary: 1100101001100000011001001110010
+Time taken: 65971 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1697657458
+Binary: 1100101001100000011001001110010
+Time taken: 31265 nanoseconds
+---------------------------------------------------------------------------
+Average time for LL-based stack: 126411 nanoseconds
+Average time for Array-based stack: 40176 nanoseconds
+Average time for LL-based Queue: 192382 nanoseconds
+Average time for Array-based Queue: 31265 nanoseconds
+---------------------------------------------------------------------------
+
+
+
+
+
+
+
+Enter the amount of random numbers to generate below:
+50
+
+n = 50
+
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 1312606362
+Binary: 1001110001111001100100010011010
+Time taken: 139015 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1312606362
+Binary: 1001110001111001100100010011010
+Time taken: 43700 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1312606362
+Binary: 1001110001111001100100010011010
+Time taken: 123894 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1312606362
+Binary: 1001110001111001100100010011010
+Time taken: 76824 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 1287916904
+Binary: 1001100110001000000110101101000
+Time taken: 62683 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1287916904
+Binary: 1001100110001000000110101101000
+Time taken: 43675 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1287916904
+Binary: 1001100110001000000110101101000
+Time taken: 38596 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1287916904
+Binary: 1001100110001000000110101101000
+Time taken: 20220 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 1298458246
+Binary: 1001101011001001110011010000110
+Time taken: 59332 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1298458246
+Binary: 1001101011001001110011010000110
+Time taken: 11053 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1298458246
+Binary: 1001101011001001110011010000110
+Time taken: 28889 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1298458246
+Binary: 1001101011001001110011010000110
+Time taken: 15770 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 1303145360
+Binary: 1001101101011000110101110010000
+Time taken: 32195 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1303145360
+Binary: 1001101101011000110101110010000
+Time taken: 19469 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1303145360
+Binary: 1001101101011000110101110010000
+Time taken: 29342 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1303145360
+Binary: 1001101101011000110101110010000
+Time taken: 10835 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 96360464
+Binary: 101101111100101100000010000
+Time taken: 41220 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 96360464
+Binary: 101101111100101100000010000
+Time taken: 19616 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 96360464
+Binary: 101101111100101100000010000
+Time taken: 28809 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 96360464
+Binary: 101101111100101100000010000
+Time taken: 12187 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 371682558
+Binary: 10110001001110110110011111110
+Time taken: 20194 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 371682558
+Binary: 10110001001110110110011111110
+Time taken: 15472 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 371682558
+Binary: 10110001001110110110011111110
+Time taken: 25050 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 371682558
+Binary: 10110001001110110110011111110
+Time taken: 10236 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 159419972
+Binary: 1001100000001000111001000100
+Time taken: 29844 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 159419972
+Binary: 1001100000001000111001000100
+Time taken: 8991 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 159419972
+Binary: 1001100000001000111001000100
+Time taken: 30539 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 159419972
+Binary: 1001100000001000111001000100
+Time taken: 13450 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 1405494425
+Binary: 1010011110001100010010010011001
+Time taken: 18822 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1405494425
+Binary: 1010011110001100010010010011001
+Time taken: 12631 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1405494425
+Binary: 1010011110001100010010010011001
+Time taken: 23844 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1405494425
+Binary: 1010011110001100010010010011001
+Time taken: 14351 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 274746501
+Binary: 10000011000000100110010000101
+Time taken: 24462 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 274746501
+Binary: 10000011000000100110010000101
+Time taken: 10935 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 274746501
+Binary: 10000011000000100110010000101
+Time taken: 31368 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 274746501
+Binary: 10000011000000100110010000101
+Time taken: 15462 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 2139278896
+Binary: 1111111100000101100111000110000
+Time taken: 22482 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 2139278896
+Binary: 1111111100000101100111000110000
+Time taken: 9989 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 2139278896
+Binary: 1111111100000101100111000110000
+Time taken: 24011 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 2139278896
+Binary: 1111111100000101100111000110000
+Time taken: 9817 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 880237115
+Binary: 110100011101110101101000111011
+Time taken: 19011 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 880237115
+Binary: 110100011101110101101000111011
+Time taken: 13994 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 880237115
+Binary: 110100011101110101101000111011
+Time taken: 14309 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 880237115
+Binary: 110100011101110101101000111011
+Time taken: 11302 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 1987726009
+Binary: 1110110011110100100101010111001
+Time taken: 15159 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1987726009
+Binary: 1110110011110100100101010111001
+Time taken: 14638 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1987726009
+Binary: 1110110011110100100101010111001
+Time taken: 26679 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1987726009
+Binary: 1110110011110100100101010111001
+Time taken: 9917 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 871779966
+Binary: 110011111101100100111001111110
+Time taken: 27317 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 871779966
+Binary: 110011111101100100111001111110
+Time taken: 21835 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 871779966
+Binary: 110011111101100100111001111110
+Time taken: 33838 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 871779966
+Binary: 110011111101100100111001111110
+Time taken: 61745 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 982488077
+Binary: 111010100011111001010000001101
+Time taken: 27902 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 982488077
+Binary: 111010100011111001010000001101
+Time taken: 7912 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 982488077
+Binary: 111010100011111001010000001101
+Time taken: 19334 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 982488077
+Binary: 111010100011111001010000001101
+Time taken: 14734 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 1634990179
+Binary: 1100001011100111111100001100011
+Time taken: 15645 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1634990179
+Binary: 1100001011100111111100001100011
+Time taken: 11613 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1634990179
+Binary: 1100001011100111111100001100011
+Time taken: 12283 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1634990179
+Binary: 1100001011100111111100001100011
+Time taken: 7894 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 97352215
+Binary: 101110011010111101000010111
+Time taken: 12509 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 97352215
+Binary: 101110011010111101000010111
+Time taken: 11308 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 97352215
+Binary: 101110011010111101000010111
+Time taken: 11107 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 97352215
+Binary: 101110011010111101000010111
+Time taken: 6977 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 1596196158
+Binary: 1011111001001000000010100111110
+Time taken: 21486 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1596196158
+Binary: 1011111001001000000010100111110
+Time taken: 13796 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1596196158
+Binary: 1011111001001000000010100111110
+Time taken: 20004 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1596196158
+Binary: 1011111001001000000010100111110
+Time taken: 8302 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 1796086311
+Binary: 1101011000011100001101000100111
+Time taken: 13689 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1796086311
+Binary: 1101011000011100001101000100111
+Time taken: 8148 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1796086311
+Binary: 1101011000011100001101000100111
+Time taken: 17922 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1796086311
+Binary: 1101011000011100001101000100111
+Time taken: 7895 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 821470760
+Binary: 110000111101101010011000101000
+Time taken: 12233 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 821470760
+Binary: 110000111101101010011000101000
+Time taken: 8239 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 821470760
+Binary: 110000111101101010011000101000
+Time taken: 19125 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 821470760
+Binary: 110000111101101010011000101000
+Time taken: 13306 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 1110746343
+Binary: 1000010001101001010010011100111
+Time taken: 16795 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1110746343
+Binary: 1000010001101001010010011100111
+Time taken: 7970 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1110746343
+Binary: 1000010001101001010010011100111
+Time taken: 12504 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1110746343
+Binary: 1000010001101001010010011100111
+Time taken: 7990 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 1891441039
+Binary: 1110000101111010001100110001111
+Time taken: 13098 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1891441039
+Binary: 1110000101111010001100110001111
+Time taken: 10746 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1891441039
+Binary: 1110000101111010001100110001111
+Time taken: 17478 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1891441039
+Binary: 1110000101111010001100110001111
+Time taken: 11755 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 87892341
+Binary: 101001111010010000101110101
+Time taken: 15283 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 87892341
+Binary: 101001111010010000101110101
+Time taken: 7104 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 87892341
+Binary: 101001111010010000101110101
+Time taken: 13862 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 87892341
+Binary: 101001111010010000101110101
+Time taken: 10748 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 1376458391
+Binary: 1010010000010110001011010010111
+Time taken: 15851 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1376458391
+Binary: 1010010000010110001011010010111
+Time taken: 8036 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1376458391
+Binary: 1010010000010110001011010010111
+Time taken: 13549 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1376458391
+Binary: 1010010000010110001011010010111
+Time taken: 7869 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 1320092585
+Binary: 1001110101011110000001110101001
+Time taken: 17238 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1320092585
+Binary: 1001110101011110000001110101001
+Time taken: 14714 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1320092585
+Binary: 1001110101011110000001110101001
+Time taken: 18637 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1320092585
+Binary: 1001110101011110000001110101001
+Time taken: 8189 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 533413939
+Binary: 11111110010110100000000110011
+Time taken: 12420 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 533413939
+Binary: 11111110010110100000000110011
+Time taken: 16025 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 533413939
+Binary: 11111110010110100000000110011
+Time taken: 21894 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 533413939
+Binary: 11111110010110100000000110011
+Time taken: 10336 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 213550108
+Binary: 1100101110101000010000011100
+Time taken: 12153 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 213550108
+Binary: 1100101110101000010000011100
+Time taken: 9869 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 213550108
+Binary: 1100101110101000010000011100
+Time taken: 25251 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 213550108
+Binary: 1100101110101000010000011100
+Time taken: 9519 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 729604120
+Binary: 101011011111001110000000011000
+Time taken: 12677 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 729604120
+Binary: 101011011111001110000000011000
+Time taken: 10350 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 729604120
+Binary: 101011011111001110000000011000
+Time taken: 22321 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 729604120
+Binary: 101011011111001110000000011000
+Time taken: 16274 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 2073415096
+Binary: 1111011100101011100110110111000
+Time taken: 16073 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 2073415096
+Binary: 1111011100101011100110110111000
+Time taken: 7795 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 2073415096
+Binary: 1111011100101011100110110111000
+Time taken: 12292 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 2073415096
+Binary: 1111011100101011100110110111000
+Time taken: 11392 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 1609780053
+Binary: 1011111111100110100101101010101
+Time taken: 15636 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1609780053
+Binary: 1011111111100110100101101010101
+Time taken: 11104 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1609780053
+Binary: 1011111111100110100101101010101
+Time taken: 13086 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1609780053
+Binary: 1011111111100110100101101010101
+Time taken: 7902 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 212742700
+Binary: 1100101011100011001000101100
+Time taken: 12180 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 212742700
+Binary: 1100101011100011001000101100
+Time taken: 11278 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 212742700
+Binary: 1100101011100011001000101100
+Time taken: 11430 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 212742700
+Binary: 1100101011100011001000101100
+Time taken: 7151 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 1800631136
+Binary: 1101011010100110111001101100000
+Time taken: 12605 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1800631136
+Binary: 1101011010100110111001101100000
+Time taken: 29454 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1800631136
+Binary: 1101011010100110111001101100000
+Time taken: 22368 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1800631136
+Binary: 1101011010100110111001101100000
+Time taken: 7815 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 1343404220
+Binary: 1010000000100101011100010111100
+Time taken: 12506 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1343404220
+Binary: 1010000000100101011100010111100
+Time taken: 8977 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1343404220
+Binary: 1010000000100101011100010111100
+Time taken: 19529 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1343404220
+Binary: 1010000000100101011100010111100
+Time taken: 12827 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 2081572218
+Binary: 1111100000100100100010101111010
+Time taken: 16219 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 2081572218
+Binary: 1111100000100100100010101111010
+Time taken: 7994 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 2081572218
+Binary: 1111100000100100100010101111010
+Time taken: 12499 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 2081572218
+Binary: 1111100000100100100010101111010
+Time taken: 11300 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 2101376438
+Binary: 1111101010000000111010110110110
+Time taken: 15869 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 2101376438
+Binary: 1111101010000000111010110110110
+Time taken: 12219 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 2101376438
+Binary: 1111101010000000111010110110110
+Time taken: 13666 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 2101376438
+Binary: 1111101010000000111010110110110
+Time taken: 7941 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 1526634859
+Binary: 1011010111111101001100101101011
+Time taken: 20660 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1526634859
+Binary: 1011010111111101001100101101011
+Time taken: 18095 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1526634859
+Binary: 1011010111111101001100101101011
+Time taken: 32000 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1526634859
+Binary: 1011010111111101001100101101011
+Time taken: 13238 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 625885624
+Binary: 100101010011100100000110111000
+Time taken: 12068 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 625885624
+Binary: 100101010011100100000110111000
+Time taken: 10112 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 625885624
+Binary: 100101010011100100000110111000
+Time taken: 16314 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 625885624
+Binary: 100101010011100100000110111000
+Time taken: 11543 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 587961231
+Binary: 100011000010111001001110001111
+Time taken: 15750 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 587961231
+Binary: 100011000010111001001110001111
+Time taken: 3045192 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 587961231
+Binary: 100011000010111001001110001111
+Time taken: 15879 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 587961231
+Binary: 100011000010111001001110001111
+Time taken: 14115 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 1769766537
+Binary: 1101001011111000111111010001001
+Time taken: 16939 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1769766537
+Binary: 1101001011111000111111010001001
+Time taken: 8635 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1769766537
+Binary: 1101001011111000111111010001001
+Time taken: 12270 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1769766537
+Binary: 1101001011111000111111010001001
+Time taken: 8455 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 1522301360
+Binary: 1011010101111000111100110110000
+Time taken: 15914 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1522301360
+Binary: 1011010101111000111100110110000
+Time taken: 12025 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1522301360
+Binary: 1011010101111000111100110110000
+Time taken: 20016 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1522301360
+Binary: 1011010101111000111100110110000
+Time taken: 7725 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 394706209
+Binary: 10111100001101011110100100001
+Time taken: 12096 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 394706209
+Binary: 10111100001101011110100100001
+Time taken: 11137 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 394706209
+Binary: 10111100001101011110100100001
+Time taken: 15346 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 394706209
+Binary: 10111100001101011110100100001
+Time taken: 9953 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 1222713093
+Binary: 1001000111000010001111100000101
+Time taken: 13189 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1222713093
+Binary: 1001000111000010001111100000101
+Time taken: 8073 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1222713093
+Binary: 1001000111000010001111100000101
+Time taken: 16343 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1222713093
+Binary: 1001000111000010001111100000101
+Time taken: 11632 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 199243668
+Binary: 1011111000000011011110010100
+Time taken: 14691 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 199243668
+Binary: 1011111000000011011110010100
+Time taken: 11008 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 199243668
+Binary: 1011111000000011011110010100
+Time taken: 11313 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 199243668
+Binary: 1011111000000011011110010100
+Time taken: 7097 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 1323444286
+Binary: 1001110111000100010100000111110
+Time taken: 15606 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1323444286
+Binary: 1001110111000100010100000111110
+Time taken: 7679 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1323444286
+Binary: 1001110111000100010100000111110
+Time taken: 14474 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1323444286
+Binary: 1001110111000100010100000111110
+Time taken: 11584 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 107032329
+Binary: 110011000010010111100001001
+Time taken: 14207 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 107032329
+Binary: 110011000010010111100001001
+Time taken: 6943 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 107032329
+Binary: 110011000010010111100001001
+Time taken: 10824 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 107032329
+Binary: 110011000010010111100001001
+Time taken: 6895 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 139364426
+Binary: 1000010011101000100001001010
+Time taken: 14332 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 139364426
+Binary: 1000010011101000100001001010
+Time taken: 8011 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 139364426
+Binary: 1000010011101000100001001010
+Time taken: 11562 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 139364426
+Binary: 1000010011101000100001001010
+Time taken: 7255 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 1056596488
+Binary: 111110111110100110001000001000
+Time taken: 15610 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1056596488
+Binary: 111110111110100110001000001000
+Time taken: 15875 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1056596488
+Binary: 111110111110100110001000001000
+Time taken: 16128 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1056596488
+Binary: 111110111110100110001000001000
+Time taken: 8741 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 365935672
+Binary: 10101110011111011110000111000
+Time taken: 11923 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 365935672
+Binary: 10101110011111011110000111000
+Time taken: 11288 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 365935672
+Binary: 10101110011111011110000111000
+Time taken: 15345 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 365935672
+Binary: 10101110011111011110000111000
+Time taken: 7333 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 1457842931
+Binary: 1010110111001001110101011110011
+Time taken: 15735 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1457842931
+Binary: 1010110111001001110101011110011
+Time taken: 12990 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1457842931
+Binary: 1010110111001001110101011110011
+Time taken: 17655 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1457842931
+Binary: 1010110111001001110101011110011
+Time taken: 8999 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 524312856
+Binary: 11111010000000110000100011000
+Time taken: 11146 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 524312856
+Binary: 11111010000000110000100011000
+Time taken: 7254 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 524312856
+Binary: 11111010000000110000100011000
+Time taken: 14880 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 524312856
+Binary: 11111010000000110000100011000
+Time taken: 15478 nanoseconds
+---------------------------------------------------------------------------
+__LL-based Stack__
+
+Decimal: 177732115
+Binary: 1010100101111111101000010011
+Time taken: 11494 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 177732115
+Binary: 1010100101111111101000010011
+Time taken: 7153 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 177732115
+Binary: 1010100101111111101000010011
+Time taken: 18645 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 177732115
+Binary: 1010100101111111101000010011
+Time taken: 10753 nanoseconds
+---------------------------------------------------------------------------
+Average time for LL-based stack: 21263 nanoseconds
+Average time for Array-based stack: 73642 nanoseconds
+Average time for LL-based Queue: 21636 nanoseconds
+Average time for Array-based Queue: 13020 nanoseconds
+---------------------------------------------------------------------------
+
+
+
+
+
+//(COULDNT GET ALL THE OUPUT FOR 500 IT GETS REMOVED FROM CONSOLE AFTER SO MUCH DATA)
+
+n = 500
+
+
+Binary: 10001011101010100001010100010
+Time taken: 4936 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 292897442
+Binary: 10001011101010100001010100010
+Time taken: 4976 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 292897442
+Binary: 10001011101010100001010100010
+Time taken: 4775 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 292897442
+Binary: 10001011101010100001010100010
+Time taken: 4692 nanoseconds
+---------------------------------------------------------------------------348
+__LL-based Stack__
+
+Decimal: 180826941
+Binary: 1010110001110011001100111101
+Time taken: 4964 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 180826941
+Binary: 1010110001110011001100111101
+Time taken: 4760 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 180826941
+Binary: 1010110001110011001100111101
+Time taken: 4810 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 180826941
+Binary: 1010110001110011001100111101
+Time taken: 4548 nanoseconds
+---------------------------------------------------------------------------349
+__LL-based Stack__
+
+Decimal: 484331652
+Binary: 11100110111100101000010000100
+Time taken: 4654 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 484331652
+Binary: 11100110111100101000010000100
+Time taken: 4446 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 484331652
+Binary: 11100110111100101000010000100
+Time taken: 4686 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 484331652
+Binary: 11100110111100101000010000100
+Time taken: 4367 nanoseconds
+---------------------------------------------------------------------------350
+__LL-based Stack__
+
+Decimal: 515810021
+Binary: 11110101111101010001011100101
+Time taken: 4864 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 515810021
+Binary: 11110101111101010001011100101
+Time taken: 5046 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 515810021
+Binary: 11110101111101010001011100101
+Time taken: 4560 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 515810021
+Binary: 11110101111101010001011100101
+Time taken: 5123 nanoseconds
+---------------------------------------------------------------------------351
+__LL-based Stack__
+
+Decimal: 1615313881
+Binary: 1100000010001111011101111011001
+Time taken: 4674 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1615313881
+Binary: 1100000010001111011101111011001
+Time taken: 5181 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1615313881
+Binary: 1100000010001111011101111011001
+Time taken: 5126 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1615313881
+Binary: 1100000010001111011101111011001
+Time taken: 4680 nanoseconds
+---------------------------------------------------------------------------352
+__LL-based Stack__
+
+Decimal: 993071270
+Binary: 111011001100010001000010100110
+Time taken: 4227 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 993071270
+Binary: 111011001100010001000010100110
+Time taken: 4574 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 993071270
+Binary: 111011001100010001000010100110
+Time taken: 5268 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 993071270
+Binary: 111011001100010001000010100110
+Time taken: 4692 nanoseconds
+---------------------------------------------------------------------------353
+__LL-based Stack__
+
+Decimal: 2083281998
+Binary: 1111100001011000101110001001110
+Time taken: 4023 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 2083281998
+Binary: 1111100001011000101110001001110
+Time taken: 4475 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 2083281998
+Binary: 1111100001011000101110001001110
+Time taken: 5056 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 2083281998
+Binary: 1111100001011000101110001001110
+Time taken: 4640 nanoseconds
+---------------------------------------------------------------------------354
+__LL-based Stack__
+
+Decimal: 1154384681
+Binary: 1000100110011101000001100101001
+Time taken: 4001 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1154384681
+Binary: 1000100110011101000001100101001
+Time taken: 4635 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1154384681
+Binary: 1000100110011101000001100101001
+Time taken: 4947 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1154384681
+Binary: 1000100110011101000001100101001
+Time taken: 4574 nanoseconds
+---------------------------------------------------------------------------355
+__LL-based Stack__
+
+Decimal: 1853464342
+Binary: 1101110011110011001111100010110
+Time taken: 4028 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1853464342
+Binary: 1101110011110011001111100010110
+Time taken: 5301 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1853464342
+Binary: 1101110011110011001111100010110
+Time taken: 4940 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1853464342
+Binary: 1101110011110011001111100010110
+Time taken: 5301 nanoseconds
+---------------------------------------------------------------------------356
+__LL-based Stack__
+
+Decimal: 372540103
+Binary: 10110001101001000001011000111
+Time taken: 3764 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 372540103
+Binary: 10110001101001000001011000111
+Time taken: 4652 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 372540103
+Binary: 10110001101001000001011000111
+Time taken: 4648 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 372540103
+Binary: 10110001101001000001011000111
+Time taken: 4421 nanoseconds
+---------------------------------------------------------------------------357
+__LL-based Stack__
+
+Decimal: 1712253195
+Binary: 1100110000011101110100100001011
+Time taken: 5021 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1712253195
+Binary: 1100110000011101110100100001011
+Time taken: 4657 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1712253195
+Binary: 1100110000011101110100100001011
+Time taken: 4806 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1712253195
+Binary: 1100110000011101110100100001011
+Time taken: 4400 nanoseconds
+---------------------------------------------------------------------------358
+__LL-based Stack__
+
+Decimal: 516650406
+Binary: 11110110010110111010110100110
+Time taken: 3844 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 516650406
+Binary: 11110110010110111010110100110
+Time taken: 4330 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 516650406
+Binary: 11110110010110111010110100110
+Time taken: 4579 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 516650406
+Binary: 11110110010110111010110100110
+Time taken: 4207 nanoseconds
+---------------------------------------------------------------------------359
+__LL-based Stack__
+
+Decimal: 1290137637
+Binary: 1001100111001011111000000100101
+Time taken: 4649 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1290137637
+Binary: 1001100111001011111000000100101
+Time taken: 4449 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1290137637
+Binary: 1001100111001011111000000100101
+Time taken: 4973 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1290137637
+Binary: 1001100111001011111000000100101
+Time taken: 4374 nanoseconds
+---------------------------------------------------------------------------360
+__LL-based Stack__
+
+Decimal: 579402409
+Binary: 100010100010001111101010101001
+Time taken: 4634 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 579402409
+Binary: 100010100010001111101010101001
+Time taken: 4548 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 579402409
+Binary: 100010100010001111101010101001
+Time taken: 4898 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 579402409
+Binary: 100010100010001111101010101001
+Time taken: 4355 nanoseconds
+---------------------------------------------------------------------------361
+__LL-based Stack__
+
+Decimal: 1041875604
+Binary: 111110000110011100001010010100
+Time taken: 3852 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1041875604
+Binary: 111110000110011100001010010100
+Time taken: 4463 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1041875604
+Binary: 111110000110011100001010010100
+Time taken: 5170 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1041875604
+Binary: 111110000110011100001010010100
+Time taken: 4343 nanoseconds
+---------------------------------------------------------------------------362
+__LL-based Stack__
+
+Decimal: 1189383537
+Binary: 1000110111001001000110101110001
+Time taken: 3963 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1189383537
+Binary: 1000110111001001000110101110001
+Time taken: 4469 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1189383537
+Binary: 1000110111001001000110101110001
+Time taken: 4809 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1189383537
+Binary: 1000110111001001000110101110001
+Time taken: 4660 nanoseconds
+---------------------------------------------------------------------------363
+__LL-based Stack__
+
+Decimal: 1482938785
+Binary: 1011000011000111101100110100001
+Time taken: 5073 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1482938785
+Binary: 1011000011000111101100110100001
+Time taken: 4486 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1482938785
+Binary: 1011000011000111101100110100001
+Time taken: 5247 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1482938785
+Binary: 1011000011000111101100110100001
+Time taken: 4555 nanoseconds
+---------------------------------------------------------------------------364
+__LL-based Stack__
+
+Decimal: 1150704743
+Binary: 1000100100101100101110001100111
+Time taken: 4649 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1150704743
+Binary: 1000100100101100101110001100111
+Time taken: 4562 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1150704743
+Binary: 1000100100101100101110001100111
+Time taken: 4846 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1150704743
+Binary: 1000100100101100101110001100111
+Time taken: 4467 nanoseconds
+---------------------------------------------------------------------------365
+__LL-based Stack__
+
+Decimal: 159526570
+Binary: 1001100000100010111010101010
+Time taken: 4330 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 159526570
+Binary: 1001100000100010111010101010
+Time taken: 4507 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 159526570
+Binary: 1001100000100010111010101010
+Time taken: 4367 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 159526570
+Binary: 1001100000100010111010101010
+Time taken: 4062 nanoseconds
+---------------------------------------------------------------------------366
+__LL-based Stack__
+
+Decimal: 655154357
+Binary: 100111000011001101110010110101
+Time taken: 13118 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 655154357
+Binary: 100111000011001101110010110101
+Time taken: 4454 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 655154357
+Binary: 100111000011001101110010110101
+Time taken: 4813 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 655154357
+Binary: 100111000011001101110010110101
+Time taken: 4275 nanoseconds
+---------------------------------------------------------------------------367
+__LL-based Stack__
+
+Decimal: 1492053564
+Binary: 1011000111011101110111000111100
+Time taken: 4707 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1492053564
+Binary: 1011000111011101110111000111100
+Time taken: 7930 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1492053564
+Binary: 1011000111011101110111000111100
+Time taken: 4964 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1492053564
+Binary: 1011000111011101110111000111100
+Time taken: 4707 nanoseconds
+---------------------------------------------------------------------------368
+__LL-based Stack__
+
+Decimal: 277103346
+Binary: 10000100001000100001011110010
+Time taken: 4401 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 277103346
+Binary: 10000100001000100001011110010
+Time taken: 4243 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 277103346
+Binary: 10000100001000100001011110010
+Time taken: 4540 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 277103346
+Binary: 10000100001000100001011110010
+Time taken: 4173 nanoseconds
+---------------------------------------------------------------------------369
+__LL-based Stack__
+
+Decimal: 1744962295
+Binary: 1101000000000100000001011110111
+Time taken: 4903 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1744962295
+Binary: 1101000000000100000001011110111
+Time taken: 4603 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1744962295
+Binary: 1101000000000100000001011110111
+Time taken: 4850 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1744962295
+Binary: 1101000000000100000001011110111
+Time taken: 4381 nanoseconds
+---------------------------------------------------------------------------370
+__LL-based Stack__
+
+Decimal: 1693691330
+Binary: 1100100111100111010110111000010
+Time taken: 6019 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1693691330
+Binary: 1100100111100111010110111000010
+Time taken: 7254 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1693691330
+Binary: 1100100111100111010110111000010
+Time taken: 6571 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1693691330
+Binary: 1100100111100111010110111000010
+Time taken: 6431 nanoseconds
+---------------------------------------------------------------------------371
+__LL-based Stack__
+
+Decimal: 882790865
+Binary: 110100100111100101000111010001
+Time taken: 6494 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 882790865
+Binary: 110100100111100101000111010001
+Time taken: 5221 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 882790865
+Binary: 110100100111100101000111010001
+Time taken: 5485 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 882790865
+Binary: 110100100111100101000111010001
+Time taken: 4760 nanoseconds
+---------------------------------------------------------------------------372
+__LL-based Stack__
+
+Decimal: 1362520860
+Binary: 1010001001101100110101100011100
+Time taken: 5599 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1362520860
+Binary: 1010001001101100110101100011100
+Time taken: 4711 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1362520860
+Binary: 1010001001101100110101100011100
+Time taken: 4996 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1362520860
+Binary: 1010001001101100110101100011100
+Time taken: 3993 nanoseconds
+---------------------------------------------------------------------------373
+__LL-based Stack__
+
+Decimal: 93331968
+Binary: 101100100000010001000000000
+Time taken: 4671 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 93331968
+Binary: 101100100000010001000000000
+Time taken: 4384 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 93331968
+Binary: 101100100000010001000000000
+Time taken: 4729 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 93331968
+Binary: 101100100000010001000000000
+Time taken: 3900 nanoseconds
+---------------------------------------------------------------------------374
+__LL-based Stack__
+
+Decimal: 865362219
+Binary: 110011100101000110000100101011
+Time taken: 4908 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 865362219
+Binary: 110011100101000110000100101011
+Time taken: 4484 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 865362219
+Binary: 110011100101000110000100101011
+Time taken: 4742 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 865362219
+Binary: 110011100101000110000100101011
+Time taken: 4433 nanoseconds
+---------------------------------------------------------------------------375
+__LL-based Stack__
+
+Decimal: 979356404
+Binary: 111010010111111100101011110100
+Time taken: 4550 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 979356404
+Binary: 111010010111111100101011110100
+Time taken: 4393 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 979356404
+Binary: 111010010111111100101011110100
+Time taken: 4886 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 979356404
+Binary: 111010010111111100101011110100
+Time taken: 4333 nanoseconds
+---------------------------------------------------------------------------376
+__LL-based Stack__
+
+Decimal: 1974683386
+Binary: 1110101101100110100011011111010
+Time taken: 5750 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1974683386
+Binary: 1110101101100110100011011111010
+Time taken: 4557 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1974683386
+Binary: 1110101101100110100011011111010
+Time taken: 5121 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1974683386
+Binary: 1110101101100110100011011111010
+Time taken: 4471 nanoseconds
+---------------------------------------------------------------------------377
+__LL-based Stack__
+
+Decimal: 859005169
+Binary: 110011001100110110000011110001
+Time taken: 4930 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 859005169
+Binary: 110011001100110110000011110001
+Time taken: 4567 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 859005169
+Binary: 110011001100110110000011110001
+Time taken: 4851 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 859005169
+Binary: 110011001100110110000011110001
+Time taken: 4899 nanoseconds
+---------------------------------------------------------------------------378
+__LL-based Stack__
+
+Decimal: 917173517
+Binary: 110110101010101111010100001101
+Time taken: 5202 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 917173517
+Binary: 110110101010101111010100001101
+Time taken: 4541 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 917173517
+Binary: 110110101010101111010100001101
+Time taken: 4929 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 917173517
+Binary: 110110101010101111010100001101
+Time taken: 4495 nanoseconds
+---------------------------------------------------------------------------379
+__LL-based Stack__
+
+Decimal: 839629914
+Binary: 110010000010111011110001011010
+Time taken: 5183 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 839629914
+Binary: 110010000010111011110001011010
+Time taken: 4672 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 839629914
+Binary: 110010000010111011110001011010
+Time taken: 5010 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 839629914
+Binary: 110010000010111011110001011010
+Time taken: 4426 nanoseconds
+---------------------------------------------------------------------------380
+__LL-based Stack__
+
+Decimal: 1762769095
+Binary: 1101001000100011011100011000111
+Time taken: 5689 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1762769095
+Binary: 1101001000100011011100011000111
+Time taken: 4970 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1762769095
+Binary: 1101001000100011011100011000111
+Time taken: 5430 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1762769095
+Binary: 1101001000100011011100011000111
+Time taken: 4787 nanoseconds
+---------------------------------------------------------------------------381
+__LL-based Stack__
+
+Decimal: 2027213814
+Binary: 1111000110101001101001111110110
+Time taken: 5457 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 2027213814
+Binary: 1111000110101001101001111110110
+Time taken: 5028 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 2027213814
+Binary: 1111000110101001101001111110110
+Time taken: 5240 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 2027213814
+Binary: 1111000110101001101001111110110
+Time taken: 4919 nanoseconds
+---------------------------------------------------------------------------382
+__LL-based Stack__
+
+Decimal: 16397514
+Binary: 111110100011010011001010
+Time taken: 4128 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 16397514
+Binary: 111110100011010011001010
+Time taken: 3819 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 16397514
+Binary: 111110100011010011001010
+Time taken: 3855 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 16397514
+Binary: 111110100011010011001010
+Time taken: 3878 nanoseconds
+---------------------------------------------------------------------------383
+__LL-based Stack__
+
+Decimal: 486999389
+Binary: 11101000001110000010101011101
+Time taken: 4921 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 486999389
+Binary: 11101000001110000010101011101
+Time taken: 4466 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 486999389
+Binary: 11101000001110000010101011101
+Time taken: 4936 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 486999389
+Binary: 11101000001110000010101011101
+Time taken: 4268 nanoseconds
+---------------------------------------------------------------------------384
+__LL-based Stack__
+
+Decimal: 1605039830
+Binary: 1011111101010101111011011010110
+Time taken: 4992 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1605039830
+Binary: 1011111101010101111011011010110
+Time taken: 4633 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1605039830
+Binary: 1011111101010101111011011010110
+Time taken: 5221 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1605039830
+Binary: 1011111101010101111011011010110
+Time taken: 4724 nanoseconds
+---------------------------------------------------------------------------385
+__LL-based Stack__
+
+Decimal: 1771471890
+Binary: 1101001100101101000010000010010
+Time taken: 5012 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1771471890
+Binary: 1101001100101101000010000010010
+Time taken: 4903 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1771471890
+Binary: 1101001100101101000010000010010
+Time taken: 5335 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1771471890
+Binary: 1101001100101101000010000010010
+Time taken: 4616 nanoseconds
+---------------------------------------------------------------------------386
+__LL-based Stack__
+
+Decimal: 116428800
+Binary: 110111100001001000000000000
+Time taken: 4648 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 116428800
+Binary: 110111100001001000000000000
+Time taken: 4168 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 116428800
+Binary: 110111100001001000000000000
+Time taken: 4431 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 116428800
+Binary: 110111100001001000000000000
+Time taken: 4117 nanoseconds
+---------------------------------------------------------------------------387
+__LL-based Stack__
+
+Decimal: 1682426841
+Binary: 1100100010001111100101111011001
+Time taken: 5258 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1682426841
+Binary: 1100100010001111100101111011001
+Time taken: 4804 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1682426841
+Binary: 1100100010001111100101111011001
+Time taken: 4966 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1682426841
+Binary: 1100100010001111100101111011001
+Time taken: 4858 nanoseconds
+---------------------------------------------------------------------------388
+__LL-based Stack__
+
+Decimal: 1592628736
+Binary: 1011110111011011001011000000000
+Time taken: 5153 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1592628736
+Binary: 1011110111011011001011000000000
+Time taken: 4617 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1592628736
+Binary: 1011110111011011001011000000000
+Time taken: 4966 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1592628736
+Binary: 1011110111011011001011000000000
+Time taken: 4577 nanoseconds
+---------------------------------------------------------------------------389
+__LL-based Stack__
+
+Decimal: 1339264112
+Binary: 1001111110100111000110001110000
+Time taken: 5602 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1339264112
+Binary: 1001111110100111000110001110000
+Time taken: 4694 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1339264112
+Binary: 1001111110100111000110001110000
+Time taken: 5070 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1339264112
+Binary: 1001111110100111000110001110000
+Time taken: 4673 nanoseconds
+---------------------------------------------------------------------------390
+__LL-based Stack__
+
+Decimal: 601397773
+Binary: 100011110110001001101000001101
+Time taken: 5293 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 601397773
+Binary: 100011110110001001101000001101
+Time taken: 4689 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 601397773
+Binary: 100011110110001001101000001101
+Time taken: 4927 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 601397773
+Binary: 100011110110001001101000001101
+Time taken: 4739 nanoseconds
+---------------------------------------------------------------------------391
+__LL-based Stack__
+
+Decimal: 372387150
+Binary: 10110001100100010110101001110
+Time taken: 5051 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 372387150
+Binary: 10110001100100010110101001110
+Time taken: 4734 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 372387150
+Binary: 10110001100100010110101001110
+Time taken: 15480 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 372387150
+Binary: 10110001100100010110101001110
+Time taken: 4691 nanoseconds
+---------------------------------------------------------------------------392
+__LL-based Stack__
+
+Decimal: 869186948
+Binary: 110011110011101011110110000100
+Time taken: 5233 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 869186948
+Binary: 110011110011101011110110000100
+Time taken: 4704 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 869186948
+Binary: 110011110011101011110110000100
+Time taken: 4998 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 869186948
+Binary: 110011110011101011110110000100
+Time taken: 4609 nanoseconds
+---------------------------------------------------------------------------393
+__LL-based Stack__
+
+Decimal: 1703845679
+Binary: 1100101100011101001111100101111
+Time taken: 5257 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1703845679
+Binary: 1100101100011101001111100101111
+Time taken: 4294 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1703845679
+Binary: 1100101100011101001111100101111
+Time taken: 5105 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1703845679
+Binary: 1100101100011101001111100101111
+Time taken: 4735 nanoseconds
+---------------------------------------------------------------------------394
+__LL-based Stack__
+
+Decimal: 140652718
+Binary: 1000011000100011000010101110
+Time taken: 4868 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 140652718
+Binary: 1000011000100011000010101110
+Time taken: 4049 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 140652718
+Binary: 1000011000100011000010101110
+Time taken: 4902 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 140652718
+Binary: 1000011000100011000010101110
+Time taken: 4397 nanoseconds
+---------------------------------------------------------------------------395
+__LL-based Stack__
+
+Decimal: 1348589655
+Binary: 1010000011000011101100001010111
+Time taken: 5319 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1348589655
+Binary: 1010000011000011101100001010111
+Time taken: 4731 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1348589655
+Binary: 1010000011000011101100001010111
+Time taken: 5114 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1348589655
+Binary: 1010000011000011101100001010111
+Time taken: 4710 nanoseconds
+---------------------------------------------------------------------------396
+__LL-based Stack__
+
+Decimal: 779518455
+Binary: 101110011101101000000111110111
+Time taken: 5132 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 779518455
+Binary: 101110011101101000000111110111
+Time taken: 4613 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 779518455
+Binary: 101110011101101000000111110111
+Time taken: 5166 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 779518455
+Binary: 101110011101101000000111110111
+Time taken: 4593 nanoseconds
+---------------------------------------------------------------------------397
+__LL-based Stack__
+
+Decimal: 1102312260
+Binary: 1000001101100111111001101000100
+Time taken: 5287 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1102312260
+Binary: 1000001101100111111001101000100
+Time taken: 4901 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1102312260
+Binary: 1000001101100111111001101000100
+Time taken: 5291 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1102312260
+Binary: 1000001101100111111001101000100
+Time taken: 4767 nanoseconds
+---------------------------------------------------------------------------398
+__LL-based Stack__
+
+Decimal: 368135150
+Binary: 10101111100010100101111101110
+Time taken: 5147 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 368135150
+Binary: 10101111100010100101111101110
+Time taken: 4437 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 368135150
+Binary: 10101111100010100101111101110
+Time taken: 4548 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 368135150
+Binary: 10101111100010100101111101110
+Time taken: 4538 nanoseconds
+---------------------------------------------------------------------------399
+__LL-based Stack__
+
+Decimal: 2132118785
+Binary: 1111111000101011000110100000001
+Time taken: 5056 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 2132118785
+Binary: 1111111000101011000110100000001
+Time taken: 4768 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 2132118785
+Binary: 1111111000101011000110100000001
+Time taken: 5307 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 2132118785
+Binary: 1111111000101011000110100000001
+Time taken: 4866 nanoseconds
+---------------------------------------------------------------------------400
+__LL-based Stack__
+
+Decimal: 1348757639
+Binary: 1010000011001000110100010000111
+Time taken: 14115 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1348757639
+Binary: 1010000011001000110100010000111
+Time taken: 4745 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1348757639
+Binary: 1010000011001000110100010000111
+Time taken: 5157 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1348757639
+Binary: 1010000011001000110100010000111
+Time taken: 4691 nanoseconds
+---------------------------------------------------------------------------401
+__LL-based Stack__
+
+Decimal: 1781766416
+Binary: 1101010001100111001100100010000
+Time taken: 5528 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1781766416
+Binary: 1101010001100111001100100010000
+Time taken: 5006 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1781766416
+Binary: 1101010001100111001100100010000
+Time taken: 5206 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1781766416
+Binary: 1101010001100111001100100010000
+Time taken: 4688 nanoseconds
+---------------------------------------------------------------------------402
+__LL-based Stack__
+
+Decimal: 1254061386
+Binary: 1001010101111110111010101001010
+Time taken: 5127 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1254061386
+Binary: 1001010101111110111010101001010
+Time taken: 9777 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1254061386
+Binary: 1001010101111110111010101001010
+Time taken: 5330 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1254061386
+Binary: 1001010101111110111010101001010
+Time taken: 9565 nanoseconds
+---------------------------------------------------------------------------403
+__LL-based Stack__
+
+Decimal: 1032947590
+Binary: 111101100100011000011110000110
+Time taken: 5381 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1032947590
+Binary: 111101100100011000011110000110
+Time taken: 5090 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1032947590
+Binary: 111101100100011000011110000110
+Time taken: 4967 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1032947590
+Binary: 111101100100011000011110000110
+Time taken: 4527 nanoseconds
+---------------------------------------------------------------------------404
+__LL-based Stack__
+
+Decimal: 619254381
+Binary: 100100111010010001001001101101
+Time taken: 8402 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 619254381
+Binary: 100100111010010001001001101101
+Time taken: 4536 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 619254381
+Binary: 100100111010010001001001101101
+Time taken: 9034 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 619254381
+Binary: 100100111010010001001001101101
+Time taken: 9229 nanoseconds
+---------------------------------------------------------------------------405
+__LL-based Stack__
+
+Decimal: 379140078
+Binary: 10110100110010011011111101110
+Time taken: 13190 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 379140078
+Binary: 10110100110010011011111101110
+Time taken: 5767 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 379140078
+Binary: 10110100110010011011111101110
+Time taken: 7978 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 379140078
+Binary: 10110100110010011011111101110
+Time taken: 11874 nanoseconds
+---------------------------------------------------------------------------406
+__LL-based Stack__
+
+Decimal: 2004674120
+Binary: 1110111011111001110011001001000
+Time taken: 12280 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 2004674120
+Binary: 1110111011111001110011001001000
+Time taken: 6469 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 2004674120
+Binary: 1110111011111001110011001001000
+Time taken: 5656 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 2004674120
+Binary: 1110111011111001110011001001000
+Time taken: 9667 nanoseconds
+---------------------------------------------------------------------------407
+__LL-based Stack__
+
+Decimal: 1483591738
+Binary: 1011000011011011101000000111010
+Time taken: 11920 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1483591738
+Binary: 1011000011011011101000000111010
+Time taken: 6926 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1483591738
+Binary: 1011000011011011101000000111010
+Time taken: 6534 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1483591738
+Binary: 1011000011011011101000000111010
+Time taken: 9806 nanoseconds
+---------------------------------------------------------------------------408
+__LL-based Stack__
+
+Decimal: 980553683
+Binary: 111010011100100000111111010011
+Time taken: 10384 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 980553683
+Binary: 111010011100100000111111010011
+Time taken: 5012 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 980553683
+Binary: 111010011100100000111111010011
+Time taken: 5420 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 980553683
+Binary: 111010011100100000111111010011
+Time taken: 9387 nanoseconds
+---------------------------------------------------------------------------409
+__LL-based Stack__
+
+Decimal: 510014405
+Binary: 11110011001100011001111000101
+Time taken: 6605 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 510014405
+Binary: 11110011001100011001111000101
+Time taken: 4916 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 510014405
+Binary: 11110011001100011001111000101
+Time taken: 12912 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 510014405
+Binary: 11110011001100011001111000101
+Time taken: 6069 nanoseconds
+---------------------------------------------------------------------------410
+__LL-based Stack__
+
+Decimal: 2143178955
+Binary: 1111111101111100101000011001011
+Time taken: 7135 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 2143178955
+Binary: 1111111101111100101000011001011
+Time taken: 4777 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 2143178955
+Binary: 1111111101111100101000011001011
+Time taken: 10793 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 2143178955
+Binary: 1111111101111100101000011001011
+Time taken: 6114 nanoseconds
+---------------------------------------------------------------------------411
+__LL-based Stack__
+
+Decimal: 1013282075
+Binary: 111100011001010111010100011011
+Time taken: 8503 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1013282075
+Binary: 111100011001010111010100011011
+Time taken: 7206 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1013282075
+Binary: 111100011001010111010100011011
+Time taken: 15980 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1013282075
+Binary: 111100011001010111010100011011
+Time taken: 11253 nanoseconds
+---------------------------------------------------------------------------412
+__LL-based Stack__
+
+Decimal: 633658286
+Binary: 100101110001001101101110101110
+Time taken: 6568 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 633658286
+Binary: 100101110001001101101110101110
+Time taken: 10301 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 633658286
+Binary: 100101110001001101101110101110
+Time taken: 5318 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 633658286
+Binary: 100101110001001101101110101110
+Time taken: 5289 nanoseconds
+---------------------------------------------------------------------------413
+__LL-based Stack__
+
+Decimal: 1376991628
+Binary: 1010010000100110011100110001100
+Time taken: 9670 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1376991628
+Binary: 1010010000100110011100110001100
+Time taken: 4961 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1376991628
+Binary: 1010010000100110011100110001100
+Time taken: 5351 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1376991628
+Binary: 1010010000100110011100110001100
+Time taken: 9294 nanoseconds
+---------------------------------------------------------------------------414
+__LL-based Stack__
+
+Decimal: 1663323461
+Binary: 1100011001001000100110101000101
+Time taken: 8917 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1663323461
+Binary: 1100011001001000100110101000101
+Time taken: 4776 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1663323461
+Binary: 1100011001001000100110101000101
+Time taken: 5466 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1663323461
+Binary: 1100011001001000100110101000101
+Time taken: 9488 nanoseconds
+---------------------------------------------------------------------------415
+__LL-based Stack__
+
+Decimal: 2044439481
+Binary: 1111001110110111010101110111001
+Time taken: 9581 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 2044439481
+Binary: 1111001110110111010101110111001
+Time taken: 4545 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 2044439481
+Binary: 1111001110110111010101110111001
+Time taken: 5203 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 2044439481
+Binary: 1111001110110111010101110111001
+Time taken: 9288 nanoseconds
+---------------------------------------------------------------------------416
+__LL-based Stack__
+
+Decimal: 518389280
+Binary: 11110111001011111111000100000
+Time taken: 9790 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 518389280
+Binary: 11110111001011111111000100000
+Time taken: 4063 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 518389280
+Binary: 11110111001011111111000100000
+Time taken: 4584 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 518389280
+Binary: 11110111001011111111000100000
+Time taken: 8460 nanoseconds
+---------------------------------------------------------------------------417
+__LL-based Stack__
+
+Decimal: 356398374
+Binary: 10101001111100011010100100110
+Time taken: 9054 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 356398374
+Binary: 10101001111100011010100100110
+Time taken: 4439 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 356398374
+Binary: 10101001111100011010100100110
+Time taken: 9014 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 356398374
+Binary: 10101001111100011010100100110
+Time taken: 4657 nanoseconds
+---------------------------------------------------------------------------418
+__LL-based Stack__
+
+Decimal: 1036612321
+Binary: 111101110010010111001011100001
+Time taken: 5060 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1036612321
+Binary: 111101110010010111001011100001
+Time taken: 4612 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1036612321
+Binary: 111101110010010111001011100001
+Time taken: 10377 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1036612321
+Binary: 111101110010010111001011100001
+Time taken: 4768 nanoseconds
+---------------------------------------------------------------------------419
+__LL-based Stack__
+
+Decimal: 1995168208
+Binary: 1110110111010111101100111010000
+Time taken: 5114 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1995168208
+Binary: 1110110111010111101100111010000
+Time taken: 4553 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1995168208
+Binary: 1110110111010111101100111010000
+Time taken: 8793 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1995168208
+Binary: 1110110111010111101100111010000
+Time taken: 4531 nanoseconds
+---------------------------------------------------------------------------420
+__LL-based Stack__
+
+Decimal: 571037894
+Binary: 100010000010010101100011000110
+Time taken: 5008 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 571037894
+Binary: 100010000010010101100011000110
+Time taken: 4653 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 571037894
+Binary: 100010000010010101100011000110
+Time taken: 8821 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 571037894
+Binary: 100010000010010101100011000110
+Time taken: 4484 nanoseconds
+---------------------------------------------------------------------------421
+__LL-based Stack__
+
+Decimal: 2083106468
+Binary: 1111100001010011010111010100100
+Time taken: 5525 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 2083106468
+Binary: 1111100001010011010111010100100
+Time taken: 8179 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 2083106468
+Binary: 1111100001010011010111010100100
+Time taken: 8829 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 2083106468
+Binary: 1111100001010011010111010100100
+Time taken: 4693 nanoseconds
+---------------------------------------------------------------------------422
+__LL-based Stack__
+
+Decimal: 1394873866
+Binary: 1010011001001000001011000001010
+Time taken: 9712 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1394873866
+Binary: 1010011001001000001011000001010
+Time taken: 5237 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1394873866
+Binary: 1010011001001000001011000001010
+Time taken: 6535 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1394873866
+Binary: 1010011001001000001011000001010
+Time taken: 9463 nanoseconds
+---------------------------------------------------------------------------423
+__LL-based Stack__
+
+Decimal: 1870235309
+Binary: 1101111011110011000011010101101
+Time taken: 7343 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1870235309
+Binary: 1101111011110011000011010101101
+Time taken: 5796 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1870235309
+Binary: 1101111011110011000011010101101
+Time taken: 9836 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1870235309
+Binary: 1101111011110011000011010101101
+Time taken: 5361 nanoseconds
+---------------------------------------------------------------------------424
+__LL-based Stack__
+
+Decimal: 227055866
+Binary: 1101100010001001100011111010
+Time taken: 5204 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 227055866
+Binary: 1101100010001001100011111010
+Time taken: 4573 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 227055866
+Binary: 1101100010001001100011111010
+Time taken: 9152 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 227055866
+Binary: 1101100010001001100011111010
+Time taken: 4709 nanoseconds
+---------------------------------------------------------------------------425
+__LL-based Stack__
+
+Decimal: 1850904301
+Binary: 1101110010100101000111011101101
+Time taken: 5099 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1850904301
+Binary: 1101110010100101000111011101101
+Time taken: 5272 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1850904301
+Binary: 1101110010100101000111011101101
+Time taken: 10703 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1850904301
+Binary: 1101110010100101000111011101101
+Time taken: 4619 nanoseconds
+---------------------------------------------------------------------------426
+__LL-based Stack__
+
+Decimal: 254324732
+Binary: 1111001010001010111111111100
+Time taken: 4983 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 254324732
+Binary: 1111001010001010111111111100
+Time taken: 9061 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 254324732
+Binary: 1111001010001010111111111100
+Time taken: 4752 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 254324732
+Binary: 1111001010001010111111111100
+Time taken: 4310 nanoseconds
+---------------------------------------------------------------------------427
+__LL-based Stack__
+
+Decimal: 2085958738
+Binary: 1111100010101010011010001010010
+Time taken: 5334 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 2085958738
+Binary: 1111100010101010011010001010010
+Time taken: 10706 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 2085958738
+Binary: 1111100010101010011010001010010
+Time taken: 5107 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 2085958738
+Binary: 1111100010101010011010001010010
+Time taken: 4534 nanoseconds
+---------------------------------------------------------------------------428
+__LL-based Stack__
+
+Decimal: 2021446504
+Binary: 1111000011111001101001101101000
+Time taken: 5845 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 2021446504
+Binary: 1111000011111001101001101101000
+Time taken: 8372 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 2021446504
+Binary: 1111000011111001101001101101000
+Time taken: 4961 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 2021446504
+Binary: 1111000011111001101001101101000
+Time taken: 4438 nanoseconds
+---------------------------------------------------------------------------429
+__LL-based Stack__
+
+Decimal: 1669418369
+Binary: 1100011100000010100110110000001
+Time taken: 5114 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1669418369
+Binary: 1100011100000010100110110000001
+Time taken: 9027 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1669418369
+Binary: 1100011100000010100110110000001
+Time taken: 5079 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1669418369
+Binary: 1100011100000010100110110000001
+Time taken: 4666 nanoseconds
+---------------------------------------------------------------------------430
+__LL-based Stack__
+
+Decimal: 907668941
+Binary: 110110000110011110110111001101
+Time taken: 5805 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 907668941
+Binary: 110110000110011110110111001101
+Time taken: 9031 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 907668941
+Binary: 110110000110011110110111001101
+Time taken: 5073 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 907668941
+Binary: 110110000110011110110111001101
+Time taken: 4741 nanoseconds
+---------------------------------------------------------------------------431
+__LL-based Stack__
+
+Decimal: 137044304
+Binary: 1000001010110010000101010000
+Time taken: 9350 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 137044304
+Binary: 1000001010110010000101010000
+Time taken: 4281 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 137044304
+Binary: 1000001010110010000101010000
+Time taken: 4729 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 137044304
+Binary: 1000001010110010000101010000
+Time taken: 8785 nanoseconds
+---------------------------------------------------------------------------432
+__LL-based Stack__
+
+Decimal: 1949845516
+Binary: 1110100001110000100100000001100
+Time taken: 5308 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1949845516
+Binary: 1110100001110000100100000001100
+Time taken: 4685 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1949845516
+Binary: 1110100001110000100100000001100
+Time taken: 9650 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1949845516
+Binary: 1110100001110000100100000001100
+Time taken: 4553 nanoseconds
+---------------------------------------------------------------------------433
+__LL-based Stack__
+
+Decimal: 945522138
+Binary: 111000010110111000010111011010
+Time taken: 5386 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 945522138
+Binary: 111000010110111000010111011010
+Time taken: 9176 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 945522138
+Binary: 111000010110111000010111011010
+Time taken: 4966 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 945522138
+Binary: 111000010110111000010111011010
+Time taken: 4575 nanoseconds
+---------------------------------------------------------------------------434
+__LL-based Stack__
+
+Decimal: 1007904909
+Binary: 111100000100110110100010001101
+Time taken: 9248 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1007904909
+Binary: 111100000100110110100010001101
+Time taken: 4889 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1007904909
+Binary: 111100000100110110100010001101
+Time taken: 5257 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1007904909
+Binary: 111100000100110110100010001101
+Time taken: 9958 nanoseconds
+---------------------------------------------------------------------------435
+__LL-based Stack__
+
+Decimal: 1519448322
+Binary: 1011010100100001111000100000010
+Time taken: 8835 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1519448322
+Binary: 1011010100100001111000100000010
+Time taken: 5155 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1519448322
+Binary: 1011010100100001111000100000010
+Time taken: 5738 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1519448322
+Binary: 1011010100100001111000100000010
+Time taken: 20918 nanoseconds
+---------------------------------------------------------------------------436
+__LL-based Stack__
+
+Decimal: 360533011
+Binary: 10101011111010100110000010011
+Time taken: 8352 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 360533011
+Binary: 10101011111010100110000010011
+Time taken: 4548 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 360533011
+Binary: 10101011111010100110000010011
+Time taken: 5393 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 360533011
+Binary: 10101011111010100110000010011
+Time taken: 9309 nanoseconds
+---------------------------------------------------------------------------437
+__LL-based Stack__
+
+Decimal: 1394275369
+Binary: 1010011000110101111010000101001
+Time taken: 7478 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1394275369
+Binary: 1010011000110101111010000101001
+Time taken: 3731 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1394275369
+Binary: 1010011000110101111010000101001
+Time taken: 3894 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1394275369
+Binary: 1010011000110101111010000101001
+Time taken: 17753 nanoseconds
+---------------------------------------------------------------------------438
+__LL-based Stack__
+
+Decimal: 1912341260
+Binary: 1110001111111000000001100001100
+Time taken: 9296 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1912341260
+Binary: 1110001111111000000001100001100
+Time taken: 4955 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1912341260
+Binary: 1110001111111000000001100001100
+Time taken: 5221 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1912341260
+Binary: 1110001111111000000001100001100
+Time taken: 8509 nanoseconds
+---------------------------------------------------------------------------439
+__LL-based Stack__
+
+Decimal: 925318605
+Binary: 110111001001110011110111001101
+Time taken: 9409 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 925318605
+Binary: 110111001001110011110111001101
+Time taken: 4757 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 925318605
+Binary: 110111001001110011110111001101
+Time taken: 5228 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 925318605
+Binary: 110111001001110011110111001101
+Time taken: 8777 nanoseconds
+---------------------------------------------------------------------------440
+__LL-based Stack__
+
+Decimal: 15687171
+Binary: 111011110101111000000011
+Time taken: 4502 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 15687171
+Binary: 111011110101111000000011
+Time taken: 3555 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 15687171
+Binary: 111011110101111000000011
+Time taken: 9263 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 15687171
+Binary: 111011110101111000000011
+Time taken: 3897 nanoseconds
+---------------------------------------------------------------------------441
+__LL-based Stack__
+
+Decimal: 1622072046
+Binary: 1100000101011101101101011101110
+Time taken: 5175 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1622072046
+Binary: 1100000101011101101101011101110
+Time taken: 5019 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1622072046
+Binary: 1100000101011101101101011101110
+Time taken: 9476 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1622072046
+Binary: 1100000101011101101101011101110
+Time taken: 4922 nanoseconds
+---------------------------------------------------------------------------442
+__LL-based Stack__
+
+Decimal: 1580003903
+Binary: 1011110001011001111001000111111
+Time taken: 5279 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1580003903
+Binary: 1011110001011001111001000111111
+Time taken: 9465 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1580003903
+Binary: 1011110001011001111001000111111
+Time taken: 5028 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1580003903
+Binary: 1011110001011001111001000111111
+Time taken: 4690 nanoseconds
+---------------------------------------------------------------------------443
+__LL-based Stack__
+
+Decimal: 2019824058
+Binary: 1111000011001000001000110111010
+Time taken: 9200 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 2019824058
+Binary: 1111000011001000001000110111010
+Time taken: 4978 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 2019824058
+Binary: 1111000011001000001000110111010
+Time taken: 5209 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 2019824058
+Binary: 1111000011001000001000110111010
+Time taken: 9587 nanoseconds
+---------------------------------------------------------------------------444
+__LL-based Stack__
+
+Decimal: 1222336825
+Binary: 1001000110110110110000100111001
+Time taken: 9722 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1222336825
+Binary: 1001000110110110110000100111001
+Time taken: 4878 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1222336825
+Binary: 1001000110110110110000100111001
+Time taken: 5483 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1222336825
+Binary: 1001000110110110110000100111001
+Time taken: 9093 nanoseconds
+---------------------------------------------------------------------------445
+__LL-based Stack__
+
+Decimal: 1445777409
+Binary: 1010110001011001101000000000001
+Time taken: 11209 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1445777409
+Binary: 1010110001011001101000000000001
+Time taken: 4661 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1445777409
+Binary: 1010110001011001101000000000001
+Time taken: 5389 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1445777409
+Binary: 1010110001011001101000000000001
+Time taken: 9821 nanoseconds
+---------------------------------------------------------------------------446
+__LL-based Stack__
+
+Decimal: 867855461
+Binary: 110011101110100110110001100101
+Time taken: 9394 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 867855461
+Binary: 110011101110100110110001100101
+Time taken: 5014 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 867855461
+Binary: 110011101110100110110001100101
+Time taken: 4954 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 867855461
+Binary: 110011101110100110110001100101
+Time taken: 9388 nanoseconds
+---------------------------------------------------------------------------447
+__LL-based Stack__
+
+Decimal: 188434372
+Binary: 1011001110110100011111000100
+Time taken: 10381 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 188434372
+Binary: 1011001110110100011111000100
+Time taken: 4846 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 188434372
+Binary: 1011001110110100011111000100
+Time taken: 10011 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 188434372
+Binary: 1011001110110100011111000100
+Time taken: 4651 nanoseconds
+---------------------------------------------------------------------------448
+__LL-based Stack__
+
+Decimal: 823394344
+Binary: 110001000101000000000000101000
+Time taken: 5010 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 823394344
+Binary: 110001000101000000000000101000
+Time taken: 4541 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 823394344
+Binary: 110001000101000000000000101000
+Time taken: 10263 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 823394344
+Binary: 110001000101000000000000101000
+Time taken: 4702 nanoseconds
+---------------------------------------------------------------------------449
+__LL-based Stack__
+
+Decimal: 437645900
+Binary: 11010000101011111001001001100
+Time taken: 5793 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 437645900
+Binary: 11010000101011111001001001100
+Time taken: 4969 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 437645900
+Binary: 11010000101011111001001001100
+Time taken: 10550 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 437645900
+Binary: 11010000101011111001001001100
+Time taken: 4899 nanoseconds
+---------------------------------------------------------------------------450
+__LL-based Stack__
+
+Decimal: 1810562920
+Binary: 1101011111010101111111101101000
+Time taken: 5420 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1810562920
+Binary: 1101011111010101111111101101000
+Time taken: 5387 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1810562920
+Binary: 1101011111010101111111101101000
+Time taken: 9695 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1810562920
+Binary: 1101011111010101111111101101000
+Time taken: 5335 nanoseconds
+---------------------------------------------------------------------------451
+__LL-based Stack__
+
+Decimal: 1115280849
+Binary: 1000010011110011101010111010001
+Time taken: 5825 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1115280849
+Binary: 1000010011110011101010111010001
+Time taken: 10722 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1115280849
+Binary: 1000010011110011101010111010001
+Time taken: 5289 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1115280849
+Binary: 1000010011110011101010111010001
+Time taken: 5750 nanoseconds
+---------------------------------------------------------------------------452
+__LL-based Stack__
+
+Decimal: 1748973740
+Binary: 1101000001111110011100010101100
+Time taken: 11488 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1748973740
+Binary: 1101000001111110011100010101100
+Time taken: 5087 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1748973740
+Binary: 1101000001111110011100010101100
+Time taken: 5718 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1748973740
+Binary: 1101000001111110011100010101100
+Time taken: 9911 nanoseconds
+---------------------------------------------------------------------------453
+__LL-based Stack__
+
+Decimal: 1150649963
+Binary: 1000100100101011000011001101011
+Time taken: 5040 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1150649963
+Binary: 1000100100101011000011001101011
+Time taken: 4493 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1150649963
+Binary: 1000100100101011000011001101011
+Time taken: 8930 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1150649963
+Binary: 1000100100101011000011001101011
+Time taken: 4373 nanoseconds
+---------------------------------------------------------------------------454
+__LL-based Stack__
+
+Decimal: 168464721
+Binary: 1010000010101001000101010001
+Time taken: 4593 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 168464721
+Binary: 1010000010101001000101010001
+Time taken: 4455 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 168464721
+Binary: 1010000010101001000101010001
+Time taken: 8794 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 168464721
+Binary: 1010000010101001000101010001
+Time taken: 4394 nanoseconds
+---------------------------------------------------------------------------455
+__LL-based Stack__
+
+Decimal: 508099755
+Binary: 11110010010001111110010101011
+Time taken: 6502 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 508099755
+Binary: 11110010010001111110010101011
+Time taken: 8751 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 508099755
+Binary: 11110010010001111110010101011
+Time taken: 4975 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 508099755
+Binary: 11110010010001111110010101011
+Time taken: 4766 nanoseconds
+---------------------------------------------------------------------------456
+__LL-based Stack__
+
+Decimal: 1955729018
+Binary: 1110100100100100000111001111010
+Time taken: 5291 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1955729018
+Binary: 1110100100100100000111001111010
+Time taken: 9293 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1955729018
+Binary: 1110100100100100000111001111010
+Time taken: 5253 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1955729018
+Binary: 1110100100100100000111001111010
+Time taken: 5008 nanoseconds
+---------------------------------------------------------------------------457
+__LL-based Stack__
+
+Decimal: 1165884456
+Binary: 1000101011111011111110000101000
+Time taken: 5324 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1165884456
+Binary: 1000101011111011111110000101000
+Time taken: 9142 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1165884456
+Binary: 1000101011111011111110000101000
+Time taken: 4977 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1165884456
+Binary: 1000101011111011111110000101000
+Time taken: 4717 nanoseconds
+---------------------------------------------------------------------------458
+__LL-based Stack__
+
+Decimal: 174458532
+Binary: 1010011001100000011010100100
+Time taken: 5193 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 174458532
+Binary: 1010011001100000011010100100
+Time taken: 9357 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 174458532
+Binary: 1010011001100000011010100100
+Time taken: 4690 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 174458532
+Binary: 1010011001100000011010100100
+Time taken: 4229 nanoseconds
+---------------------------------------------------------------------------459
+__LL-based Stack__
+
+Decimal: 1575903891
+Binary: 1011101111011100110001010010011
+Time taken: 9625 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1575903891
+Binary: 1011101111011100110001010010011
+Time taken: 4813 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1575903891
+Binary: 1011101111011100110001010010011
+Time taken: 5129 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1575903891
+Binary: 1011101111011100110001010010011
+Time taken: 9236 nanoseconds
+---------------------------------------------------------------------------460
+__LL-based Stack__
+
+Decimal: 1956079256
+Binary: 1110100100101110110011010011000
+Time taken: 8707 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1956079256
+Binary: 1110100100101110110011010011000
+Time taken: 4898 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1956079256
+Binary: 1110100100101110110011010011000
+Time taken: 5163 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1956079256
+Binary: 1110100100101110110011010011000
+Time taken: 9406 nanoseconds
+---------------------------------------------------------------------------461
+__LL-based Stack__
+
+Decimal: 1919507434
+Binary: 1110010011010010101101111101010
+Time taken: 9295 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1919507434
+Binary: 1110010011010010101101111101010
+Time taken: 4723 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1919507434
+Binary: 1110010011010010101101111101010
+Time taken: 5134 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1919507434
+Binary: 1110010011010010101101111101010
+Time taken: 9220 nanoseconds
+---------------------------------------------------------------------------462
+__LL-based Stack__
+
+Decimal: 1776062970
+Binary: 1101001110111001001000111111010
+Time taken: 5402 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1776062970
+Binary: 1101001110111001001000111111010
+Time taken: 4648 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1776062970
+Binary: 1101001110111001001000111111010
+Time taken: 9762 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1776062970
+Binary: 1101001110111001001000111111010
+Time taken: 4379 nanoseconds
+---------------------------------------------------------------------------463
+__LL-based Stack__
+
+Decimal: 2138968931
+Binary: 1111111011111100001001101100011
+Time taken: 5710 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 2138968931
+Binary: 1111111011111100001001101100011
+Time taken: 9412 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 2138968931
+Binary: 1111111011111100001001101100011
+Time taken: 5123 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 2138968931
+Binary: 1111111011111100001001101100011
+Time taken: 4736 nanoseconds
+---------------------------------------------------------------------------464
+__LL-based Stack__
+
+Decimal: 1799293715
+Binary: 1101011001111110000101100010011
+Time taken: 7938 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1799293715
+Binary: 1101011001111110000101100010011
+Time taken: 10265 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1799293715
+Binary: 1101011001111110000101100010011
+Time taken: 4919 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1799293715
+Binary: 1101011001111110000101100010011
+Time taken: 4453 nanoseconds
+---------------------------------------------------------------------------465
+__LL-based Stack__
+
+Decimal: 117578728
+Binary: 111000000100001101111101000
+Time taken: 4104 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 117578728
+Binary: 111000000100001101111101000
+Time taken: 5070 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 117578728
+Binary: 111000000100001101111101000
+Time taken: 5125 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 117578728
+Binary: 111000000100001101111101000
+Time taken: 10203 nanoseconds
+---------------------------------------------------------------------------466
+__LL-based Stack__
+
+Decimal: 336833315
+Binary: 10100000100111010101100100011
+Time taken: 9928 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 336833315
+Binary: 10100000100111010101100100011
+Time taken: 5124 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 336833315
+Binary: 10100000100111010101100100011
+Time taken: 5012 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 336833315
+Binary: 10100000100111010101100100011
+Time taken: 10100 nanoseconds
+---------------------------------------------------------------------------467
+__LL-based Stack__
+
+Decimal: 852716207
+Binary: 110010110100110110101010101111
+Time taken: 10137 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 852716207
+Binary: 110010110100110110101010101111
+Time taken: 6054 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 852716207
+Binary: 110010110100110110101010101111
+Time taken: 5877 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 852716207
+Binary: 110010110100110110101010101111
+Time taken: 12147 nanoseconds
+---------------------------------------------------------------------------468
+__LL-based Stack__
+
+Decimal: 420599181
+Binary: 11001000100011101010110001101
+Time taken: 13386 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 420599181
+Binary: 11001000100011101010110001101
+Time taken: 5947 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 420599181
+Binary: 11001000100011101010110001101
+Time taken: 6286 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 420599181
+Binary: 11001000100011101010110001101
+Time taken: 12677 nanoseconds
+---------------------------------------------------------------------------469
+__LL-based Stack__
+
+Decimal: 2098814265
+Binary: 1111101000110010101110100111001
+Time taken: 12793 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 2098814265
+Binary: 1111101000110010101110100111001
+Time taken: 4785 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 2098814265
+Binary: 1111101000110010101110100111001
+Time taken: 4896 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 2098814265
+Binary: 1111101000110010101110100111001
+Time taken: 9795 nanoseconds
+---------------------------------------------------------------------------470
+__LL-based Stack__
+
+Decimal: 1526378208
+Binary: 1011010111110101010111011100000
+Time taken: 8541 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1526378208
+Binary: 1011010111110101010111011100000
+Time taken: 5727 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1526378208
+Binary: 1011010111110101010111011100000
+Time taken: 4813 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1526378208
+Binary: 1011010111110101010111011100000
+Time taken: 21813 nanoseconds
+---------------------------------------------------------------------------471
+__LL-based Stack__
+
+Decimal: 986047642
+Binary: 111010110001011110010010011010
+Time taken: 4264 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 986047642
+Binary: 111010110001011110010010011010
+Time taken: 6010 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 986047642
+Binary: 111010110001011110010010011010
+Time taken: 9457 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 986047642
+Binary: 111010110001011110010010011010
+Time taken: 4211 nanoseconds
+---------------------------------------------------------------------------472
+__LL-based Stack__
+
+Decimal: 1661469474
+Binary: 1100011000010000000001100100010
+Time taken: 4576 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1661469474
+Binary: 1100011000010000000001100100010
+Time taken: 8217 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1661469474
+Binary: 1100011000010000000001100100010
+Time taken: 3929 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1661469474
+Binary: 1100011000010000000001100100010
+Time taken: 3888 nanoseconds
+---------------------------------------------------------------------------473
+__LL-based Stack__
+
+Decimal: 1372557558
+Binary: 1010001110011111001000011110110
+Time taken: 9733 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1372557558
+Binary: 1010001110011111001000011110110
+Time taken: 3934 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1372557558
+Binary: 1010001110011111001000011110110
+Time taken: 4086 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1372557558
+Binary: 1010001110011111001000011110110
+Time taken: 11511 nanoseconds
+---------------------------------------------------------------------------474
+__LL-based Stack__
+
+Decimal: 1659577652
+Binary: 1100010111010110010010100110100
+Time taken: 10019 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1659577652
+Binary: 1100010111010110010010100110100
+Time taken: 4578 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1659577652
+Binary: 1100010111010110010010100110100
+Time taken: 6125 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1659577652
+Binary: 1100010111010110010010100110100
+Time taken: 11176 nanoseconds
+---------------------------------------------------------------------------475
+__LL-based Stack__
+
+Decimal: 1093588640
+Binary: 1000001001011101101011010100000
+Time taken: 7761 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1093588640
+Binary: 1000001001011101101011010100000
+Time taken: 5563 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1093588640
+Binary: 1000001001011101101011010100000
+Time taken: 5793 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1093588640
+Binary: 1000001001011101101011010100000
+Time taken: 9289 nanoseconds
+---------------------------------------------------------------------------476
+__LL-based Stack__
+
+Decimal: 2048831293
+Binary: 1111010000111101010111100111101
+Time taken: 9653 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 2048831293
+Binary: 1111010000111101010111100111101
+Time taken: 3922 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 2048831293
+Binary: 1111010000111101010111100111101
+Time taken: 7203 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 2048831293
+Binary: 1111010000111101010111100111101
+Time taken: 10079 nanoseconds
+---------------------------------------------------------------------------477
+__LL-based Stack__
+
+Decimal: 1354008081
+Binary: 1010000101101001000011000010001
+Time taken: 7954 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1354008081
+Binary: 1010000101101001000011000010001
+Time taken: 4667 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1354008081
+Binary: 1010000101101001000011000010001
+Time taken: 5571 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1354008081
+Binary: 1010000101101001000011000010001
+Time taken: 8922 nanoseconds
+---------------------------------------------------------------------------478
+__LL-based Stack__
+
+Decimal: 726839648
+Binary: 101011010100101011000101100000
+Time taken: 8116 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 726839648
+Binary: 101011010100101011000101100000
+Time taken: 5514 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 726839648
+Binary: 101011010100101011000101100000
+Time taken: 5432 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 726839648
+Binary: 101011010100101011000101100000
+Time taken: 10825 nanoseconds
+---------------------------------------------------------------------------479
+__LL-based Stack__
+
+Decimal: 1073025581
+Binary: 111111111101010001001000101101
+Time taken: 4536 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1073025581
+Binary: 111111111101010001001000101101
+Time taken: 4616 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1073025581
+Binary: 111111111101010001001000101101
+Time taken: 9959 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1073025581
+Binary: 111111111101010001001000101101
+Time taken: 10100 nanoseconds
+---------------------------------------------------------------------------480
+__LL-based Stack__
+
+Decimal: 1567192741
+Binary: 1011101011010010111011010100101
+Time taken: 4617 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1567192741
+Binary: 1011101011010010111011010100101
+Time taken: 5177 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1567192741
+Binary: 1011101011010010111011010100101
+Time taken: 10322 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1567192741
+Binary: 1011101011010010111011010100101
+Time taken: 10377 nanoseconds
+---------------------------------------------------------------------------481
+__LL-based Stack__
+
+Decimal: 1432608284
+Binary: 1010101011000111101111000011100
+Time taken: 4323 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1432608284
+Binary: 1010101011000111101111000011100
+Time taken: 9999 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1432608284
+Binary: 1010101011000111101111000011100
+Time taken: 5266 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1432608284
+Binary: 1010101011000111101111000011100
+Time taken: 4898 nanoseconds
+---------------------------------------------------------------------------482
+__LL-based Stack__
+
+Decimal: 208906559
+Binary: 1100011100111010100100111111
+Time taken: 8856 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 208906559
+Binary: 1100011100111010100100111111
+Time taken: 4662 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 208906559
+Binary: 1100011100111010100100111111
+Time taken: 5698 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 208906559
+Binary: 1100011100111010100100111111
+Time taken: 4830 nanoseconds
+---------------------------------------------------------------------------483
+__LL-based Stack__
+
+Decimal: 1391684732
+Binary: 1010010111100110110110001111100
+Time taken: 4320 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1391684732
+Binary: 1010010111100110110110001111100
+Time taken: 11114 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1391684732
+Binary: 1010010111100110110110001111100
+Time taken: 5782 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1391684732
+Binary: 1010010111100110110110001111100
+Time taken: 4972 nanoseconds
+---------------------------------------------------------------------------484
+__LL-based Stack__
+
+Decimal: 1794982778
+Binary: 1101010111111010100001101111010
+Time taken: 5119 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1794982778
+Binary: 1101010111111010100001101111010
+Time taken: 10849 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1794982778
+Binary: 1101010111111010100001101111010
+Time taken: 5496 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1794982778
+Binary: 1101010111111010100001101111010
+Time taken: 4502 nanoseconds
+---------------------------------------------------------------------------485
+__LL-based Stack__
+
+Decimal: 532867653
+Binary: 11111110000101110101001000101
+Time taken: 5981 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 532867653
+Binary: 11111110000101110101001000101
+Time taken: 6336 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 532867653
+Binary: 11111110000101110101001000101
+Time taken: 6347 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 532867653
+Binary: 11111110000101110101001000101
+Time taken: 5356 nanoseconds
+---------------------------------------------------------------------------486
+__LL-based Stack__
+
+Decimal: 661214142
+Binary: 100111011010010101001110111110
+Time taken: 6427 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 661214142
+Binary: 100111011010010101001110111110
+Time taken: 3976 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 661214142
+Binary: 100111011010010101001110111110
+Time taken: 4127 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 661214142
+Binary: 100111011010010101001110111110
+Time taken: 3823 nanoseconds
+---------------------------------------------------------------------------487
+__LL-based Stack__
+
+Decimal: 204419106
+Binary: 1100001011110011000000100010
+Time taken: 4082 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 204419106
+Binary: 1100001011110011000000100010
+Time taken: 4290 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 204419106
+Binary: 1100001011110011000000100010
+Time taken: 3870 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 204419106
+Binary: 1100001011110011000000100010
+Time taken: 3544 nanoseconds
+---------------------------------------------------------------------------488
+__LL-based Stack__
+
+Decimal: 45170615
+Binary: 10101100010011111110110111
+Time taken: 3982 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 45170615
+Binary: 10101100010011111110110111
+Time taken: 3358 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 45170615
+Binary: 10101100010011111110110111
+Time taken: 3482 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 45170615
+Binary: 10101100010011111110110111
+Time taken: 4006 nanoseconds
+---------------------------------------------------------------------------489
+__LL-based Stack__
+
+Decimal: 1453650359
+Binary: 1010110101001001111000110110111
+Time taken: 4205 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1453650359
+Binary: 1010110101001001111000110110111
+Time taken: 5067 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1453650359
+Binary: 1010110101001001111000110110111
+Time taken: 5875 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1453650359
+Binary: 1010110101001001111000110110111
+Time taken: 5495 nanoseconds
+---------------------------------------------------------------------------490
+__LL-based Stack__
+
+Decimal: 1581043842
+Binary: 1011110001111001101000010000010
+Time taken: 5726 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1581043842
+Binary: 1011110001111001101000010000010
+Time taken: 4962 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1581043842
+Binary: 1011110001111001101000010000010
+Time taken: 5304 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1581043842
+Binary: 1011110001111001101000010000010
+Time taken: 4674 nanoseconds
+---------------------------------------------------------------------------491
+__LL-based Stack__
+
+Decimal: 1030977435
+Binary: 111101011100110111011110011011
+Time taken: 4977 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1030977435
+Binary: 111101011100110111011110011011
+Time taken: 5468 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1030977435
+Binary: 111101011100110111011110011011
+Time taken: 4258 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1030977435
+Binary: 111101011100110111011110011011
+Time taken: 4294 nanoseconds
+---------------------------------------------------------------------------492
+__LL-based Stack__
+
+Decimal: 1079177460
+Binary: 1000000010100101111000011110100
+Time taken: 5861 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1079177460
+Binary: 1000000010100101111000011110100
+Time taken: 3894 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1079177460
+Binary: 1000000010100101111000011110100
+Time taken: 3962 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1079177460
+Binary: 1000000010100101111000011110100
+Time taken: 3692 nanoseconds
+---------------------------------------------------------------------------493
+__LL-based Stack__
+
+Decimal: 674946392
+Binary: 101000001110101101110101011000
+Time taken: 6108 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 674946392
+Binary: 101000001110101101110101011000
+Time taken: 3907 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 674946392
+Binary: 101000001110101101110101011000
+Time taken: 4435 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 674946392
+Binary: 101000001110101101110101011000
+Time taken: 3604 nanoseconds
+---------------------------------------------------------------------------494
+__LL-based Stack__
+
+Decimal: 1987553251
+Binary: 1110110011101111010011111100011
+Time taken: 5740 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 1987553251
+Binary: 1110110011101111010011111100011
+Time taken: 4219 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 1987553251
+Binary: 1110110011101111010011111100011
+Time taken: 5801 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 1987553251
+Binary: 1110110011101111010011111100011
+Time taken: 4957 nanoseconds
+---------------------------------------------------------------------------495
+__LL-based Stack__
+
+Decimal: 403074093
+Binary: 11000000001100110110000101101
+Time taken: 6144 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 403074093
+Binary: 11000000001100110110000101101
+Time taken: 3557 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 403074093
+Binary: 11000000001100110110000101101
+Time taken: 3759 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 403074093
+Binary: 11000000001100110110000101101
+Time taken: 3610 nanoseconds
+---------------------------------------------------------------------------496
+__LL-based Stack__
+
+Decimal: 160070452
+Binary: 1001100010100111101100110100
+Time taken: 3900 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 160070452
+Binary: 1001100010100111101100110100
+Time taken: 3502 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 160070452
+Binary: 1001100010100111101100110100
+Time taken: 5664 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 160070452
+Binary: 1001100010100111101100110100
+Time taken: 4495 nanoseconds
+---------------------------------------------------------------------------497
+__LL-based Stack__
+
+Decimal: 525553147
+Binary: 11111010100110100110111111011
+Time taken: 4200 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 525553147
+Binary: 11111010100110100110111111011
+Time taken: 3530 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 525553147
+Binary: 11111010100110100110111111011
+Time taken: 5168 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 525553147
+Binary: 11111010100110100110111111011
+Time taken: 4449 nanoseconds
+---------------------------------------------------------------------------498
+__LL-based Stack__
+
+Decimal: 155255019
+Binary: 1001010000010000000011101011
+Time taken: 5168 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 155255019
+Binary: 1001010000010000000011101011
+Time taken: 3382 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 155255019
+Binary: 1001010000010000000011101011
+Time taken: 5151 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 155255019
+Binary: 1001010000010000000011101011
+Time taken: 4474 nanoseconds
+---------------------------------------------------------------------------499
+__LL-based Stack__
+
+Decimal: 80572741
+Binary: 100110011010111000101000101
+Time taken: 3689 nanoseconds
+
+
+__Array-based Stack__
+
+Decimal: 80572741
+Binary: 100110011010111000101000101
+Time taken: 3272 nanoseconds
+
+
+__LL-based Queue__
+
+Decimal: 80572741
+Binary: 100110011010111000101000101
+Time taken: 4866 nanoseconds
+
+
+__Array-based Queue__
+
+Decimal: 80572741
+Binary: 100110011010111000101000101
+Time taken: 4407 nanoseconds
+---------------------------------------------------------------------------500
+Average time for LL-based stack: 9344 nanoseconds
+Average time for Array-based stack: 11597 nanoseconds
+Average time for LL-based Queue: 9354 nanoseconds
+Average time for Array-based Queue: 7518 nanoseconds
+---------------------------------------------------------------------------
+
+
+
+
+
+
+
+Enter the amount of random numbers to generate below:
+1000
+
+n = 1000
+
+---------------------------------------------------------------------------
+Average time for LL-based stack: 5818 nanoseconds
+Average time for Array-based stack: 4576 nanoseconds
+Average time for LL-based Queue: 7773 nanoseconds
+Average time for Array-based Queue: 4498 nanoseconds
+---------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+Enter the amount of random numbers to generate below:
+50000
+
+n = 50000
+
+---------------------------------------------------------------------------
+Average time for LL-based stack: 2913 nanoseconds
+Average time for Array-based stack: 2697 nanoseconds
+Average time for LL-based Queue: 2904 nanoseconds
+Average time for Array-based Queue: 2671 nanoseconds
+---------------------------------------------------------------------------
+
+
+
+
+
+
+
+Enter the amount of random numbers to generate below:
+100000
+
+n = 100000
+
+---------------------------------------------------------------------------
+Average time for LL-based stack: 2696 nanoseconds
+Average time for Array-based stack: 2509 nanoseconds
+Average time for LL-based Queue: 2661 nanoseconds
+Average time for Array-based Queue: 2489 nanoseconds
+---------------------------------------------------------------------------
